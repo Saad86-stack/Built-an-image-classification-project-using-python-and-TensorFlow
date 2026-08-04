@@ -158,7 +158,7 @@ Confidence : 98.75%
 
 # 👨‍💻 Developed By
 
-Ahmed Khan
+Saad Pathan
 
 Diploma in Artificial Intelligence & Machine Learning (AIML)
 
